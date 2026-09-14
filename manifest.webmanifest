@@ -1,0 +1,14 @@
+{
+  "name": "Neon Last Stand",
+  "short_name": "Last Stand",
+  "description": "A neon asteroid survival arena game.",
+  "start_url": "./neon-last-stand.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0d1127",
+  "theme_color": "#0d1127",
+  "icons": [
+    { "src": "./neon-last-stand-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
